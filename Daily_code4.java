@@ -1,4 +1,4 @@
-Find the frequency of each digit from the given number.
+/*Find the frequency of each digit from the given number.
 Sample Input : 78554
 Sample Output :
 0 occurs 0 times
@@ -12,6 +12,7 @@ Sample Output :
 8 occurs 1 times
 9 occurs 0 times
 CODING:
+*/
 import java.util.Scanner;
 class sol
 {
