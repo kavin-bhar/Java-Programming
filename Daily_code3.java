@@ -1,4 +1,4 @@
-Write a program to check whether the given array of elements are in a Bitonic order or Not.
+/*Write a program to check whether the given array of elements are in a Bitonic order or Not.
 Note:-
 A sequence is bitonic if it monotonically increases and then monotonically
 de-creases, or if it can be circularly shifted to monotonically
@@ -10,6 +10,7 @@ EXAMPLE:
 Not Bitonic
 
 CODING:
+*/
 import java.util.Scanner;
 class sol
 {
