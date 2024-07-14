@@ -1,4 +1,4 @@
-Anagram for 2 numbers. Two numbers are said to be an anagram if both numbers are formed with the same digits.
+/*Anagram for 2 numbers. Two numbers are said to be an anagram if both numbers are formed with the same digits.
 Sample Input 1:
 11
 13
@@ -10,6 +10,7 @@ Sample Input 2:
 Sample Output 2:
 Anagram
 CODING:
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 class sol
