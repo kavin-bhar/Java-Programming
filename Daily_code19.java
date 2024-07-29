@@ -1,3 +1,6 @@
+/*Write a code to implement balance paranthesis using stack .
+CODING:*/
+
 import java.util.Scanner;
 import java.util.Stack;
 public class balpara 
